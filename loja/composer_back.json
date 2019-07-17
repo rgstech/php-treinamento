@@ -1,0 +1,8 @@
+{
+
+
+  "autoload":{
+    "classmap": ["estoque", "venda"]
+  }
+
+}

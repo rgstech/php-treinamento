@@ -1,0 +1,10 @@
+https://www.infoq.com/br/news/2013/10/tudo-sobre-java-8
+https://tableless.com.br/diga-ola-ao-typescript-e-adeus-ao-javascript/
+https://www.youtube.com/watch?time_continue=549&v=rC296hM-S4g
+https://imasters.com.br/desenvolvimento/quando-o-excesso-de-aprendizado-atrapalha-sua-produtividade/?trace=1519021197&source=single
+https://docs.microsoft.com/pt-br/aspnet/core/
+https://www.quora.com/Is-C-better-than-Java
+http://blog.caelum.com.br/reaproveitando-codigo-com-javascript-heranca-e-prototipos/
+https://medium.com/trainingcenter/heran%C3%A7a-e-prot%C3%B3tipos-no-javascript-2c1e60e005a2
+http://www.milfont.org/tech/2008/01/05/heranca-no-javascript/
+http://programadorobjetivo.co/constructors-e-prototypes-em-javascript/
