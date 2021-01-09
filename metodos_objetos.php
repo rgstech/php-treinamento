@@ -2,9 +2,9 @@
 
 class Pessoa {
     
-    public $nome;
-    public $email;
-    public $tel;
+    private $nome;
+    private $email;
+    private $tel;
     
     public function __construct($nome, $email, $tel) {
           
@@ -45,7 +45,7 @@ class Pessoa {
 
 class Cliente extends Pessoa {
     
-      public $tipoCliente;
+      private $tipoCliente;
       
       public function __construct($nome, $email, $tel, $tipoCliente) {
           
